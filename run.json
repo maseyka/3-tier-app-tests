@@ -1,5 +1,5 @@
 {
-  "precommit": "mvn test -Вhost=http://petclinic-sit-mr-204-15.main.edp.projects.epam.com/api",
-  "sit": "mvn test -Вhost=http://petclinic-sit-mr-204-15.main.edp.projects.epam.com/api",
-  "sit-mr-204-15": "mvn test -Вhost=http://petclinic-sit-mr-204-15.main.edp.projects.epam.com/api"
+  "precommit": "mvn test -Dhost=http://petclinic-sit-mr-204-15-2.main.edp.projects.epam.com/api",
+  "sit": "mvn test -Dhost=http://petclinic-sit-mr-204-15-2.main.edp.projects.epam.com/api",
+  "sit-mr-204-15": "mvn test -Dhost=http://petclinic-sit-mr-204-15-2.main.edp.projects.epam.com/api"
 }
