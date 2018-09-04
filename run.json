@@ -1,5 +1,5 @@
 {
-  "precommit": "mvn test -Dhost=https://petclinic-sit-petclinic.demo.edp-epam.com",
-  "sit": "mvn test -Dhost=https://petclinic-sit-petclinic.demo.edp-epam.com",
-  "qa": "mvn test -Dhost=https://petclinic-qa-petclinic.demo.edp-epam.com"
+  "precommit": "mvn test -Dhost=https://petclinic-sec-2018.demo.edp-epam.com",
+  "sit": "mvn test -Dhost=https://petclinic-sit-sec-2018.demo.edp-epam.com",
+  "qa": "mvn test -Dhost=https://petclinic-qa-sec-2018.demo.edp-epam.com"
 }
